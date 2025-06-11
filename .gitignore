@@ -1,0 +1,11 @@
+# Ignore environment variable file
+.env
+
+# Ignore Python virtual environments
+venv/
+Venv/
+ENV/
+env/
+
+# Ignore model outputs or files
+models/
