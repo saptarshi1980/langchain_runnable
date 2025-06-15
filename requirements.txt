@@ -6,3 +6,13 @@ faiss-cpu
 sentence-transformers
 pypdf
 groq
+bs4
+langchain-experimental
+chromadb
+tiktoken
+langchain_chroma
+langchain_huggingface
+faiss-cpu
+ipykernel
+youtube-transcript-api
+
