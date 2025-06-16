@@ -15,4 +15,4 @@ langchain_huggingface
 faiss-cpu
 ipykernel
 youtube-transcript-api
-
+requests
