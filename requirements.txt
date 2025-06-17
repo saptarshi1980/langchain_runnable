@@ -16,3 +16,4 @@ faiss-cpu
 ipykernel
 youtube-transcript-api
 requests
+duckduckgo-search
