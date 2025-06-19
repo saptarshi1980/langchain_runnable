@@ -17,3 +17,4 @@ ipykernel
 youtube-transcript-api
 requests
 duckduckgo-search
+youtube-transcript-api
